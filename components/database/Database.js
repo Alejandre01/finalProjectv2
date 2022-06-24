@@ -14,7 +14,7 @@ export const COLOURS = {
       id: 1,
       category: 'product',
       productName: 'MI Super Bass Bluetooth Wireless Headphones',
-      productPrice: 1799,
+      productPrice: 150,
       description:
         'Up to 20 hours battery life | Super powerful Bass | 40mm dynamic driver | Pressure less ear muffs | Bluetooth 5.0 | Voice control',
       isOff: true,
@@ -31,7 +31,7 @@ export const COLOURS = {
       id: 2,
       category: 'product',
       productName: 'boAt Rockerz 450 Bluetooth Headphone',
-      productPrice: 1499,
+      productPrice: 180,
       description:
         'boAt Rockerz 450 M is an on-ear wireless headset that has been ergonomically designed to meet the needs of music lovers.',
       isOff: false,
@@ -47,7 +47,7 @@ export const COLOURS = {
       id: 3,
       category: 'accessory',
       productName: 'boAt Airdopes 441',
-      productPrice: 1999,
+      productPrice: 100,
       description:
         'Bluetooth: It has Bluetooth v5.0 with a range of 10m and is compatible with Android & iOS',
       isOff: true,
@@ -64,7 +64,7 @@ export const COLOURS = {
       id: 4,
       category: 'accessory',
       productName: 'boAt Bassheads 242',
-      productPrice: 399,
+      productPrice: 75,
       description:
         'Fly into your workouts with precise tones that inspire and energize your system with its HD sound, all the time.',
       isOff: false,
@@ -80,7 +80,7 @@ export const COLOURS = {
       id: 5,
       category: 'accessory',
       productName: 'boAt Rockerz 255 Pro+',
-      productPrice: 1499,
+      productPrice: 200,
       description:
         'The unbeatable boAt signature sound shines through no matter what are you playing courtesy its 10mm drivers.',
       isOff: false,
@@ -96,7 +96,7 @@ export const COLOURS = {
       id: 6,
       category: 'accessory',
       productName: 'Boult Audio AirBass Propods TWS',
-      productPrice: 1299,
+      productPrice: 300,
       description:
         'One Touch Control & Voice Assistant: With one multifunction button, you can play/pause, previous/next track and answer/hang-up calls.Voice assistant function lets you access siri/Google Assistant',
       isOff: false,

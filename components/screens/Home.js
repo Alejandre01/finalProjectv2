@@ -150,7 +150,7 @@ const Home = ({navigation}) => {
             </View>
           )
         ) : null}
-        <Text>&#8377; {data.productPrice}</Text>
+        <Text> $ {data.productPrice}</Text>
       </TouchableOpacity>
     );
   };
